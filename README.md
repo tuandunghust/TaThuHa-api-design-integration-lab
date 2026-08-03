@@ -1,0 +1,5 @@
+- **Khóa học:** Thiết Kế API & Tích Hợp Hệ Thống (API Design and Integration)
+- **Giảng viên:** Trần Hữu Hòa
+- **Học viên:** Tạ Thu Hà
+- **Đồ án:** Bài tập cuối khóa - Hệ thống EVN Systems & API Cung cấp Thông tin Sản lượng Điện tiêu thụ Khách hàng
+- **Phiên bản:** `1.0.0`
